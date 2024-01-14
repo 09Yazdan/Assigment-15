@@ -18,9 +18,10 @@
     position: absolute;
     top: 0px;
     opacity: 0;
-    background-color: rgba(0, 0, 0, 0.1);
+    /* background-color: rgba(0, 0, 0, 0.1); */
     width: 90%;
     height:  73%;
+    
 }
 .col-3:hover .text-2{
     opacity: 1;
