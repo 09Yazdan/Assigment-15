@@ -4,8 +4,8 @@
 .nav-item:hover{
     border-bottom: 2px solid black;
 }
-.col:hover{
-    box-shadow: 10px 10px  20px 10px rgb(141, 139, 139);
+.img-fluid:hover{
+    box-shadow: 5px 5px  5px 5px rgb(141, 139, 139);
 }
 .col-3{
     position: relative;
